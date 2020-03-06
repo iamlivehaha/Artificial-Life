@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T09:10:08.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="pKNoIJ8HMjKq_sR3g6iM" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-06T09:12:55.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="U2e2AXJROSLZJxeQTfRk" version="12.8.1" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -315,25 +315,6 @@
         </mxCell>
         <mxCell id="K2w6QF54Ia6ce-w4coo5-23" value="Try" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1013" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="COT4b0Jh3VXO60tVpHoC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="COT4b0Jh3VXO60tVpHoC-2" target="bPWNmK-C2rNBeduyQzfB-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1170" y="820" />
-              <mxPoint x="779" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="COT4b0Jh3VXO60tVpHoC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="COT4b0Jh3VXO60tVpHoC-2" target="bPWNmK-C2rNBeduyQzfB-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1170" y="670" />
-              <mxPoint x="1045" y="670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="COT4b0Jh3VXO60tVpHoC-2" value="&lt;p&gt;DIYSys&lt;br&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1120" y="920" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
