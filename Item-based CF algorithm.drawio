@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T08:55:52.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="desTmwZhHc2vwvQf3H5n" version="13.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-18T08:58:20.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Lkf-_JyPSqWqO2CrNfwL" version="13.1.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="AQQ4hfXkU3-GNTl8jwOP-2" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Sim&lt;/th&gt;&lt;th style=&quot;text-align: center&quot;&gt;i1&lt;/th&gt;&lt;td&gt;i2&lt;/td&gt;&lt;td&gt;i3&lt;/td&gt;&lt;td&gt;i4&lt;/td&gt;&lt;th style=&quot;text-align: center&quot;&gt;...&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;i1&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;i2&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Sim(2,,3)&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;i3&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;i4&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;...&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="340" width="240" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="AQQ4hfXkU3-GNTl8jwOP-3" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-weight: 700 ; text-align: -webkit-left ; background-color: rgb(167 , 201 , 66)&quot;&gt;Rating Table&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="435" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AQQ4hfXkU3-GNTl8jwOP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQQ4hfXkU3-GNTl8jwOP-1" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,6 +71,12 @@
         <mxCell id="p1ardnm0ejrmqjcvGX4R-6" value="返回推荐结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="79" y="450" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="I6xABcmsENuqX_OMU0Q4-0" value="评分表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I6xABcmsENuqX_OMU0Q4-1" value="物品相似度表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="320" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -96,9 +99,6 @@
         </mxCell>
         <mxCell id="y1Uwh6Rz_Bd9P_uJ-xdK-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;Sim&#39;&lt;/th&gt;&lt;th style=&quot;text-align: center&quot;&gt;i1&lt;/th&gt;&lt;td&gt;i2&lt;/td&gt;&lt;td&gt;i3&lt;/td&gt;&lt;td&gt;i4&lt;/td&gt;&lt;th style=&quot;text-align: center&quot;&gt;...&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;i1&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;i2&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Sim&#39;(2,,3)&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;i3&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;i4&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;...&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" vertex="1" parent="y1Uwh6Rz_Bd9P_uJ-xdK-1">
           <mxGeometry x="520" y="330" width="240" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="y1Uwh6Rz_Bd9P_uJ-xdK-8" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-weight: 700 ; text-align: -webkit-left ; background-color: rgb(167 , 201 , 66)&quot;&gt;Rating Table&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="y1Uwh6Rz_Bd9P_uJ-xdK-1">
-          <mxGeometry x="585" y="70" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y1Uwh6Rz_Bd9P_uJ-xdK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y1Uwh6Rz_Bd9P_uJ-xdK-1" source="y1Uwh6Rz_Bd9P_uJ-xdK-10" target="y1Uwh6Rz_Bd9P_uJ-xdK-6">
           <mxGeometry relative="1" as="geometry" />
@@ -193,6 +193,12 @@
         </mxCell>
         <mxCell id="cIzUBMnLC-90K8vo97Ro-14" value="3. 计算混合相似度" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cIzUBMnLC-90K8vo97Ro-0">
           <mxGeometry y="94" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cIzUBMnLC-90K8vo97Ro-23" value="混合相似度表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="y1Uwh6Rz_Bd9P_uJ-xdK-1">
+          <mxGeometry x="589" y="311" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cIzUBMnLC-90K8vo97Ro-25" value="时间加权的评分表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="y1Uwh6Rz_Bd9P_uJ-xdK-1">
+          <mxGeometry x="569" y="70" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
